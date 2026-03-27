@@ -1,1 +1,1 @@
-# helloworld-using-ai-in-different-lang
+# helloworld-using-ai-in-different
